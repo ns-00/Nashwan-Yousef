@@ -1,5 +1,0 @@
-{
-  "version": 2,
-  "buildCommand": "npm run build --workspace=@workspace/api-server",
-  "installCommand": "npm install --legacy-peer-deps"
-}
