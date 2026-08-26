@@ -1,6 +1,6 @@
 {
   "version": 2,
   "buildCommand": "npm run build --workspace=@workspace/nashwan-portfolio",
-  "installCommand": "npm install",
+  "installCommand": "npm install --legacy-peer-deps",
   "outputDirectory": "dist"
 }
