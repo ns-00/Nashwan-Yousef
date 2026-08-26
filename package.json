@@ -18,12 +18,14 @@
     "lint": "tsc -p ./artifacts/nashwan-portfolio/tsconfig.json --noEmit",
     "typecheck": "tsc --build"
   },
-  "devDependencies": {
+  "dependencies": {
     "@tailwindcss/vite": "^4.1.14",
     "@vitejs/plugin-react": "^5.0.4",
-    "prettier": "^3.5.0",
     "tailwindcss": "^4.1.14",
     "typescript": "~5.7.3",
     "vite": "^6.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.0"
   }
 }
