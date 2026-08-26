@@ -11,8 +11,8 @@
     "scripts"
   ],
   "scripts": {
-    "dev": "npm run dev --workspace=@workspace/nashwan-portfolio",
-    "build": "npm run build --workspace=@workspace/nashwan-portfolio",
+    "dev": "node node_modules/vite/bin/vite.js --config artifacts/nashwan-portfolio/vite.config.ts --host 0.0.0.0 --port 3000",
+    "build": "node node_modules/vite/bin/vite.js build --config artifacts/nashwan-portfolio/vite.config.ts",
     "build:api": "npm run build --workspace=@workspace/api-server",
     "typecheck:libs": "tsc --build ./lib/db ./lib/api-zod ./lib/api-client-react",
     "lint": "tsc -p ./artifacts/nashwan-portfolio/tsconfig.json --noEmit",
