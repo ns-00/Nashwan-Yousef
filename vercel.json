@@ -1,7 +1,8 @@
 {
   "version": 2,
-  "buildCommand": "node node_modules/vite/bin/vite.js build --config artifacts/nashwan-portfolio/vite.config.ts",
-  "installCommand": "npm install --include=dev --legacy-peer-deps",
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install --legacy-peer-deps",
   "outputDirectory": "dist",
   "rewrites": [
     {
