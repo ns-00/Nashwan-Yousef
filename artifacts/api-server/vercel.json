@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "buildCommand": "pnpm -w run typecheck:libs && pnpm --filter @workspace/api-server run build",
+  "installCommand": "pnpm install --production=false"
+}

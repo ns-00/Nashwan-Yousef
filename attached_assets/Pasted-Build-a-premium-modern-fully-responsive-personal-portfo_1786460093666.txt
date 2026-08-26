@@ -1,0 +1,704 @@
+Build a premium, modern, fully responsive personal portfolio website for Nashwan Yousef.
+
+The website must be production-ready, visually impressive, fast, accessible, SEO-friendly, and optimized for desktop, tablet, and mobile.
+
+1. Website Identity
+
+Name:
+Nashwan Yousef
+
+Arabic name:
+نشوان يوسف
+
+Age:
+23
+
+Professional titles:
+
+- Web Developer
+- Web Designer
+- Public Relations Manager
+- Customer Service Specialist
+- Sales Representative
+- Developer of the global Travalorics Coffee platform
+
+Arabic titles:
+
+- مطور مواقع ويب
+- مصمم مواقع ويب
+- مدير علاقات عامة
+- متخصص خدمة عملاء
+- مندوب مبيعات
+- مطور منصة Travalorics Coffee العالمية
+
+The website is a personal professional portfolio and should feel like the website of a modern technology professional and creative digital specialist.
+
+---
+
+2. Languages
+
+The website must support English and Arabic.
+
+IMPORTANT:
+
+- English must be the DEFAULT language.
+- Add a highly visible language switcher in the navigation: EN | AR
+- When the user selects Arabic, the entire website must switch to Arabic.
+- Arabic must use RTL direction.
+- English must use LTR direction.
+- Do not simply translate headings; translate ALL visible website content.
+- Save the user's selected language in localStorage so the preference remains after refreshing.
+- The language switch must happen smoothly without reloading the page if possible.
+
+English is the primary/default content.
+
+---
+
+3. Overall Design
+
+Create a premium futuristic portfolio aesthetic.
+
+Design inspiration:
+
+- modern technology portfolio
+- high-end developer portfolio
+- minimal luxury
+- glassmorphism
+- subtle gradients
+- elegant typography
+- dark premium interface
+- smooth animations
+- sophisticated micro-interactions
+
+Use a dark background with elegant neutral colors and subtle accent gradients.
+
+Do NOT make the website look like a generic template.
+
+The design should feel custom-made specifically for Nashwan Yousef.
+
+Use:
+
+- large typography
+- generous whitespace
+- glass-effect cards
+- subtle borders
+- soft shadows
+- gradient accents
+- animated background elements
+- smooth scrolling
+- elegant hover effects
+- modern buttons
+- rounded corners
+
+Avoid excessive animations. Everything should remain professional and fast.
+
+---
+
+4. Technology
+
+Use a modern frontend stack.
+
+Preferred:
+
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+
+Use a clean component architecture.
+
+Suggested components:
+
+- Navbar
+- Hero
+- About
+- Services
+- Skills
+- FeaturedProject
+- Experience
+- Contact
+- SocialLinks
+- Footer
+- LanguageSwitcher
+
+Keep content separated from components where practical so it is easy to edit later.
+
+---
+
+5. Navbar
+
+Create a sticky/fixed premium navigation bar.
+
+Desktop navigation:
+
+Nashwan Yousef logo/name on the left.
+
+Navigation links:
+
+- Home
+- About
+- Services
+- Project
+- Contact
+
+On Arabic:
+
+- الرئيسية
+- عني
+- الخدمات
+- المشروع
+- تواصل
+
+Right side:
+
+- EN / AR language switcher
+- Contact button
+
+The navbar should have a subtle glassmorphism effect when scrolling.
+
+On mobile:
+
+- Use a clean hamburger menu.
+- The mobile menu should animate smoothly.
+- Make sure all links work correctly.
+
+---
+
+6. Hero Section
+
+The hero section must immediately communicate who Nashwan Yousef is.
+
+Use a powerful headline.
+
+English:
+
+Nashwan Yousef
+
+Web Developer & Designer
+Building Digital Experiences That Make an Impact.
+
+Supporting text:
+
+"I'm a multidisciplinary digital professional combining web development, design, communication, customer experience, and business skills to create modern digital experiences that connect ideas with people."
+
+Arabic:
+
+نشوان يوسف
+
+مطور ومصمم مواقع ويب
+أصنع تجارب رقمية تترك أثرًا.
+
+Supporting Arabic text:
+
+"أنا متخصص رقمي متعدد المهارات، أجمع بين تطوير وتصميم مواقع الويب والتواصل والعلاقات العامة وخدمة العملاء والمبيعات لصناعة تجارب رقمية حديثة تربط الأفكار بالناس."
+
+Add two primary buttons:
+
+English:
+
+- View My Work
+- Let's Connect
+
+Arabic:
+
+- شاهد أعمالي
+- تواصل معي
+
+The "View My Work" button scrolls to the Featured Project section.
+
+The "Let's Connect" button scrolls to Contact.
+
+Add a small professional status indicator:
+
+Available for Opportunities
+
+Arabic:
+
+متاح للفرص والتعاون
+
+Add subtle animated elements around the hero.
+
+Possible visual:
+
+- abstract glowing orb
+- animated grid
+- floating glass cards
+- subtle particles
+- modern developer/code-inspired visual
+
+Do not overload the hero.
+
+---
+
+7. About Section
+
+Title:
+
+About Me
+
+Arabic:
+
+نبذة عني
+
+English content:
+
+"I'm Nashwan Yousef, a 23-year-old Web Developer and Designer with a multidisciplinary background spanning web development, design, public relations, customer service, and sales.
+
+I enjoy transforming ideas into meaningful digital experiences. My approach combines technical thinking, creativity, communication, and an understanding of people and business.
+
+This combination allows me to look at projects from multiple perspectives — technical, creative, commercial, and human."
+
+Arabic equivalent:
+
+"أنا نشوان يوسف، أبلغ من العمر 23 عامًا، وأعمل في مجال تطوير وتصميم مواقع الويب، مع خلفية متعددة المهارات تشمل تطوير المواقع والتصميم والعلاقات العامة وخدمة العملاء والمبيعات.
+
+أستمتع بتحويل الأفكار إلى تجارب رقمية حقيقية ومميزة. أجمع في عملي بين التفكير التقني والإبداع والتواصل وفهم احتياجات الناس والأعمال.
+
+هذا التنوع يمنحني القدرة على النظر إلى المشاريع من عدة زوايا — تقنية وإبداعية وتجارية وإنسانية."
+
+Create this section with a beautiful layout.
+
+Include a small stats area:
+
+23
+Years Old
+
+5+
+Professional Areas
+
+1
+Global Platform
+
+---
+
+8. Services Section
+
+Title:
+
+What I Do
+
+Arabic:
+
+ماذا أقدم
+
+Create six premium service cards.
+
+1. Web Development
+   Icon: code
+
+Description:
+"Building modern, responsive, scalable websites and digital experiences."
+
+Arabic:
+"تطوير مواقع حديثة ومتجاوبة وحلول رقمية مصممة لتقديم تجربة مميزة."
+
+2. Web Design
+   Icon: palette
+
+Description:
+"Creating elegant interfaces focused on usability, visual identity, and user experience."
+
+Arabic:
+"تصميم واجهات عصرية وجذابة مع التركيز على سهولة الاستخدام والهوية البصرية وتجربة المستخدم."
+
+3. Public Relations
+   Icon: users
+
+Description:
+"Building professional relationships and creating meaningful communication with audiences and partners."
+
+Arabic:
+"بناء العلاقات المهنية وصناعة تواصل فعال مع الجمهور والعملاء والشركاء."
+
+4. Customer Service
+   Icon: headset
+
+Description:
+"Understanding customer needs, solving problems, and delivering positive experiences."
+
+Arabic:
+"فهم احتياجات العملاء وحل المشكلات وتقديم تجارب خدمة احترافية وإيجابية."
+
+5. Sales
+   Icon: trending-up
+
+Description:
+"Understanding customer needs, communicating value, building trust, and creating business opportunities."
+
+Arabic:
+"فهم احتياجات العملاء وتقديم القيمة وبناء الثقة وتحويل الفرص إلى نتائج وعلاقات ناجحة."
+
+6. Digital Solutions
+   Icon: sparkles
+
+Description:
+"Combining technology, creativity, and business thinking to create effective digital solutions."
+
+Arabic:
+"دمج التكنولوجيا والإبداع والتفكير التجاري لإنشاء حلول رقمية فعالة."
+
+Add elegant hover animations to the cards.
+
+---
+
+9. Skills / Professional Strengths
+
+Create a section called:
+
+My Strengths
+
+Arabic:
+نقاط قوتي
+
+Include:
+
+- Web Development
+- Web Design
+- UI/UX
+- Communication
+- Public Relations
+- Customer Service
+- Sales
+- Problem Solving
+- Creative Thinking
+- Business Awareness
+
+Do not use fake percentage skill bars.
+
+Instead, use modern tags, cards, or interactive visual elements.
+
+---
+
+10. Featured Project
+
+This should be one of the most visually important sections.
+
+Title:
+
+Featured Project
+
+Arabic:
+
+المشروع المميز
+
+Project name:
+
+Travalorics Coffee
+
+Description:
+
+English:
+
+"I am the developer of the global Travalorics Coffee platform, contributing to the development of a digital platform representing a modern global coffee concept.
+
+This project reflects my passion for combining technology, creativity, business, and digital experiences into one meaningful platform."
+
+Arabic:
+
+"أنا مطور منصة Travalorics Coffee العالمية، وقد ساهمت في تطوير منصة رقمية تمثل مفهومًا عالميًا حديثًا في مجال القهوة.
+
+يمثل هذا المشروع شغفي بدمج التكنولوجيا والإبداع والأعمال والتجربة الرقمية في منصة متكاملة."
+
+IMPORTANT:
+Make the text Travalorics Coffee a clickable link.
+
+URL:
+https://travalorics.com
+
+The link must:
+
+- open the website in a new tab
+- use rel="noopener noreferrer"
+- have a subtle hover effect
+
+Add a large premium project card with:
+
+- project name
+- description
+- "Visit Website" button
+- external-link icon
+- attractive abstract visual representing a global coffee/digital platform
+
+Do NOT invent fake project statistics or fake technologies used.
+
+---
+
+11. Professional Philosophy
+
+Create a visually elegant section:
+
+My Vision
+
+Arabic:
+
+رؤيتي
+
+English:
+
+"My vision is to continue growing as a professional who combines technology, creativity, communication, and business.
+
+I want to build digital experiences that connect people, businesses, and ideas.
+
+I believe a website is more than a collection of pages. It is an opportunity to tell a story, build trust, create an experience, and leave a lasting impression."
+
+Arabic:
+
+"أطمح إلى مواصلة التطور كمتخصص يجمع بين التكنولوجيا والإبداع والتواصل والأعمال.
+
+أسعى إلى بناء تجارب رقمية تربط بين الأشخاص والأعمال والأفكار.
+
+أؤمن بأن الموقع الإلكتروني ليس مجرد مجموعة من الصفحات، بل هو فرصة لسرد قصة وبناء الثقة وصناعة تجربة وترك انطباع لا يُنسى."
+
+Make this section visually different from the others, perhaps with a large quote-style layout.
+
+---
+
+12. Contact Section
+
+Title:
+
+Let's Connect
+
+Arabic:
+
+لنتواصل
+
+English:
+
+"Whether you are looking for a Web Developer, Web Designer, Public Relations professional, Customer Service specialist, or Sales Representative, I'm open to new opportunities, collaborations, and meaningful projects."
+
+Arabic:
+
+"سواء كنت تبحث عن مطور مواقع أو مصمم مواقع أو متخصص علاقات عامة أو موظف خدمة عملاء أو مندوب مبيعات، فأنا منفتح على الفرص المهنية الجديدة والمشاريع والتعاونات التي تصنع قيمة حقيقية."
+
+Add a large CTA:
+
+Let's Build Something Great Together.
+
+Arabic:
+
+لنصنع شيئًا رائعًا معًا.
+
+---
+
+13. Social Media / Contact Icons
+
+Create a beautiful contact/social icon area.
+
+IMPORTANT:
+Use icons only, with tooltips showing the platform name.
+
+Instagram:
+https://www.instagram.com/__ns00
+
+Facebook:
+https://www.facebook.com/na00sh
+
+GitHub:
+https://github.com/ns-00
+
+WhatsApp:
+https://wa.me/qr/AOOV5GACVS25I1
+
+Email:
+mailto:nashwany91@gmail.com
+
+The email should be clickable.
+
+Use recognizable icons from a reliable icon library such as Lucide React or another appropriate icon package.
+
+For Instagram, Facebook, GitHub, WhatsApp:
+
+- open external links in a new tab
+- use rel="noopener noreferrer"
+
+For email:
+
+- use mailto:
+
+Do NOT display the long URLs prominently. Show elegant icons with tooltips.
+
+---
+
+14. Footer
+
+Footer should contain:
+
+Nashwan Yousef
+
+"Web Developer & Designer"
+
+Arabic:
+"مطور ومصمم مواقع ويب"
+
+Add:
+
+- social icons
+- language switcher
+- copyright
+
+Example:
+
+© 2026 Nashwan Yousef. All rights reserved.
+
+Arabic:
+
+© 2026 نشوان يوسف. جميع الحقوق محفوظة.
+
+---
+
+15. Animations
+
+Use subtle premium animations.
+
+Include:
+
+- fade-in on scroll
+- slide-up sections
+- smooth hover effects
+- button micro-interactions
+- animated gradient background
+- subtle floating elements
+- navbar transition on scroll
+
+Do NOT use excessive animation.
+
+Respect prefers-reduced-motion for accessibility.
+
+---
+
+16. Responsive Design
+
+The website MUST look excellent on:
+
+- 4K desktop
+- normal desktop
+- laptop
+- tablet
+- iPhone
+- Android phones
+
+Mobile is extremely important.
+
+Make sure:
+
+- no horizontal scrolling
+- text remains readable
+- buttons are easy to tap
+- navigation works correctly
+- cards stack beautifully
+- Arabic RTL layout works correctly
+- English LTR layout works correctly
+
+---
+
+17. SEO
+
+Add proper SEO metadata.
+
+English title:
+
+Nashwan Yousef | Web Developer & Designer
+
+English description:
+
+Nashwan Yousef — Web Developer, Web Designer, Public Relations Manager, Customer Service Specialist, Sales Representative, and Developer of the global Travalorics Coffee platform.
+
+Arabic title:
+
+نشوان يوسف | مطور ومصمم مواقع ويب
+
+Arabic description:
+
+نشوان يوسف — مطور ومصمم مواقع ويب، مدير علاقات عامة، متخصص خدمة عملاء ومندوب مبيعات، ومطور منصة Travalorics Coffee العالمية.
+
+Add:
+
+- semantic HTML
+- proper heading hierarchy
+- Open Graph metadata
+- favicon
+- accessible labels
+- descriptive link titles
+- image alt text
+
+---
+
+18. Accessibility
+
+Follow accessibility best practices.
+
+Make sure:
+
+- buttons are keyboard accessible
+- links have clear labels
+- sufficient contrast
+- focus states are visible
+- images have alt text
+- language direction changes correctly
+- screen readers can understand the structure
+
+---
+
+19. Performance
+
+Optimize the site for performance.
+
+Requirements:
+
+- lazy-load non-critical images
+- avoid unnecessarily large libraries
+- optimize assets
+- avoid excessive JavaScript
+- keep animations efficient
+- avoid layout shifts
+- make the initial page load fast
+
+---
+
+20. Important Content Rules
+
+Do NOT invent:
+
+- work experience that was not provided
+- companies that Nashwan did not mention
+- fake clients
+- fake statistics
+- fake certifications
+- fake awards
+- fake programming languages
+- fake years of experience
+- fake testimonials
+
+Only use information provided in this prompt.
+
+The website should feel impressive through design, copywriting, layout, and presentation — not fabricated credentials.
+
+---
+
+21. Final Quality Requirements
+
+Before considering the project complete:
+
+1. Make sure the website runs without errors.
+2. Make sure all navigation links work.
+3. Make sure EN is the default language.
+4. Make sure AR switches the entire website to RTL.
+5. Make sure language preference persists after refresh.
+6. Make sure Travalorics Coffee links to:
+   https://travalorics.com
+7. Make sure every social icon links to the correct URL.
+8. Make sure email opens the correct Gmail/mail client using:
+   mailto:nashwany91@gmail.com
+9. Test mobile responsiveness.
+10. Test desktop responsiveness.
+11. Check browser console for errors.
+12. Remove unused code.
+13. Keep the project clean and maintainable.
+14. Do not leave placeholder text such as "Lorem ipsum".
+15. Do not leave broken images or broken links.
+16. Make the final result look like a premium professional portfolio, not a basic starter template.
+
+Most importantly:
+
+Create a visually exceptional personal brand website for Nashwan Yousef that communicates professionalism, creativity, technology, communication skills, and ambition within the first few seconds of visiting the site.

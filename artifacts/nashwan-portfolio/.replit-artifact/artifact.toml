@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Nashwan Yousef Portfolio"
+description = "A premium bilingual personal portfolio for Nashwan Yousef, showcasing web development, design, communication, and the Travalorics Coffee platform."
+version = "1.0.0"
+id = "artifacts/nashwan-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 25063
+
+[services.development]
+run = "pnpm --filter @workspace/nashwan-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/nashwan-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/nashwan-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "25063"
+BASE_PATH = "/"

@@ -1,0 +1,616 @@
+REVIEW AND UPGRADE THE CURRENT LIVE WEBSITE
+
+You are working on the existing Nashwan Yousef portfolio website.
+
+The current website is already implemented and running.
+
+DO NOT rebuild the website from scratch.
+
+DO NOT replace the current project with a completely different template.
+
+Instead, inspect the CURRENT implementation and improve it directly.
+
+Your goal is to make the existing website look significantly more premium, professional, polished, and production-ready while preserving all correct existing functionality.
+
+---
+
+PRIMARY OBJECTIVE
+
+Transform the current website into a high-end personal portfolio for:
+
+Nashwan Yousef
+
+Professional identity:
+
+Web Developer & Designer
+
+Additional professional areas:
+
+- Public Relations
+- Customer Service
+- Sales
+- Developer of the global Travalorics Coffee platform
+
+The website must feel like a real professional personal brand website, not an AI-generated portfolio template.
+
+---
+
+1. DO A FULL VISUAL AUDIT FIRST
+
+Before changing anything, inspect the entire current website.
+
+Review:
+
+- Hero
+- Navbar
+- About
+- Services
+- Skills
+- Featured Project
+- Vision
+- Contact
+- Social links
+- Footer
+- Mobile navigation
+- Arabic version
+- English version
+
+Identify everything that currently looks:
+
+- generic
+- repetitive
+- too large
+- too small
+- poorly aligned
+- visually unbalanced
+- unfinished
+- unnecessarily animated
+- inconsistent
+- outdated
+
+Then improve those areas directly.
+
+---
+
+2. KEEP WHAT ALREADY WORKS
+
+Do NOT remove working features simply for the sake of redesign.
+
+Preserve:
+
+- bilingual EN/AR system
+- English as default
+- Arabic RTL
+- language persistence
+- all correct navigation
+- all social links
+- Travalorics Coffee link
+- responsive design
+- existing working components
+
+Only improve them where necessary.
+
+---
+
+3. PREMIUM DESIGN DIRECTION
+
+Upgrade the current visual design toward:
+
+Luxury Technology Portfolio
+
+The website should feel:
+
+- premium
+- elegant
+- futuristic
+- minimal
+- confident
+- sophisticated
+- professional
+
+Avoid making it look like:
+
+- a gaming website
+- a crypto website
+- a generic SaaS landing page
+- a template
+- an overly glowing cyberpunk interface
+
+Use subtle technology-inspired visuals rather than excessive effects.
+
+---
+
+4. HERO — MOST IMPORTANT AREA
+
+The first screen must immediately communicate the identity of Nashwan.
+
+Use a strong visual hierarchy:
+
+Small label:
+
+HELLO, I'M
+
+Large:
+
+Nashwan Yousef
+
+Professional title:
+
+Web Developer & Designer
+
+Main statement:
+
+Building Digital Experiences That Make an Impact.
+
+Short supporting text.
+
+Then:
+
+View My Work
+
+and:
+
+Let's Connect
+
+Add:
+
+Available for Opportunities
+
+The Hero should look expensive and carefully designed.
+
+Do not put too much text above the fold.
+
+---
+
+5. ADD A PROFESSIONAL VISUAL ELEMENT
+
+If the current Hero lacks a strong visual identity, add one.
+
+Possible options:
+
+- elegant abstract digital sphere
+- subtle 3D-inspired shape
+- animated grid
+- minimal "NY" monogram
+- floating glass panel
+- abstract developer interface
+
+Choose ONE strong visual direction.
+
+Do not combine too many effects.
+
+The visual should support the personal brand rather than distract from it.
+
+---
+
+6. NAVBAR
+
+Make the navbar extremely clean.
+
+Desktop:
+
+Nashwan Yousef
+
+Home
+About
+Services
+Project
+Contact
+
+EN | AR
+
+Contact
+
+Use a glass/transparent effect while scrolling.
+
+The active section should be clearly indicated.
+
+On mobile:
+
+Use a polished animated hamburger menu.
+
+The mobile menu must close after clicking a navigation item.
+
+---
+
+7. ABOUT SECTION
+
+Improve the current About section.
+
+Do not present it as a giant wall of text.
+
+Use a strong editorial layout.
+
+Include:
+
+23
+Years Old
+
+5+
+Professional Areas
+
+1
+Global Platform
+
+Then a concise professional description.
+
+Make the numbers visually attractive without inventing additional statistics.
+
+---
+
+8. SERVICES
+
+Improve the current service cards.
+
+Services:
+
+Web Development
+Web Design
+Public Relations
+Customer Service
+Sales
+Digital Solutions
+
+Cards should have:
+
+- premium icon
+- title
+- short description
+- subtle hover effect
+- clean spacing
+- consistent height
+
+Avoid excessive glow.
+
+Use refined hover transitions.
+
+---
+
+9. FEATURED PROJECT
+
+Make this section visually dominant.
+
+Project:
+
+Travalorics Coffee
+
+Clearly state:
+
+Developer of the global Travalorics Coffee platform
+
+Make the project name clickable.
+
+URL:
+
+https://travalorics.com
+
+Button:
+
+Visit Website ↗
+
+Open in a new tab.
+
+Do not invent:
+
+- technologies
+- statistics
+- users
+- revenue
+- awards
+- clients
+
+The presentation should rely on visual quality rather than fabricated information.
+
+---
+
+10. CONTACT / SOCIAL AREA
+
+Create a strong final CTA:
+
+Let's Build Something Great Together.
+
+Supporting text:
+
+Open to opportunities, collaborations, and meaningful projects.
+
+Then display social icons:
+
+Instagram
+Facebook
+GitHub
+WhatsApp
+Email
+
+Use the exact existing URLs supplied in the project.
+
+Do not change them.
+
+Icons should be elegant and consistent.
+
+---
+
+11. ENGLISH / ARABIC
+
+English MUST remain the default.
+
+Arabic must be fully translated.
+
+When Arabic is active:
+
+- document direction = RTL
+- document language = ar
+- all text aligns naturally
+- cards and layouts adapt correctly
+- navigation adapts correctly
+
+When English is active:
+
+- document direction = LTR
+- document language = en
+
+Do not simply apply RTL globally.
+
+Review the actual visual layout in both languages.
+
+---
+
+12. TYPOGRAPHY
+
+Upgrade typography.
+
+English:
+
+Use a modern premium sans-serif font.
+
+Arabic:
+
+Use a professional modern Arabic font with excellent readability.
+
+Improve:
+
+- heading hierarchy
+- paragraph width
+- line height
+- letter spacing
+- section titles
+- button typography
+
+The name "Nashwan Yousef" should remain one of the strongest visual elements.
+
+---
+
+13. COLORS
+
+Do not randomly introduce many colors.
+
+Use a sophisticated dark palette with:
+
+- deep background
+- elevated surfaces
+- subtle borders
+- bright readable text
+- one primary accent
+- subtle accent gradients
+
+Keep the color system consistent throughout the entire site.
+
+---
+
+14. SPACING
+
+This is extremely important.
+
+Review every section for:
+
+- excessive empty space
+- cramped content
+- inconsistent section heights
+- inconsistent card padding
+- inconsistent gaps
+
+Create a consistent spacing system.
+
+The site should breathe without feeling empty.
+
+---
+
+15. ANIMATIONS
+
+Keep animations subtle.
+
+Use:
+
+- fade-in
+- slide-up
+- subtle scale
+- hover movement
+- smooth scrolling
+
+Remove unnecessary animations.
+
+Nothing should feel slow.
+
+Respect:
+
+prefers-reduced-motion
+
+---
+
+16. MOBILE
+
+Perform a serious mobile redesign.
+
+Test:
+
+320px
+375px
+390px
+430px
+768px
+
+Pay special attention to:
+
+- Hero
+- Navbar
+- Buttons
+- Service cards
+- Featured project
+- Social icons
+- Footer
+- Arabic RTL
+
+There must be:
+
+NO horizontal scrolling.
+
+The mobile version must look intentionally designed.
+
+---
+
+17. ACCESSIBILITY
+
+Improve:
+
+- keyboard navigation
+- focus states
+- semantic HTML
+- accessible buttons
+- accessible social links
+- image alt text
+- color contrast
+- screen-reader labels
+
+Social icons must have accessible labels.
+
+---
+
+18. SEO
+
+Ensure:
+
+Title:
+
+Nashwan Yousef | Web Developer & Designer
+
+Meta description:
+
+Nashwan Yousef — Web Developer, Web Designer, Public Relations Manager, Customer Service Specialist, Sales Representative, and Developer of the global Travalorics Coffee platform.
+
+Also verify:
+
+- Open Graph
+- favicon
+- semantic headings
+- language attributes
+- canonical URL where appropriate
+
+---
+
+19. TECHNICAL QUALITY
+
+After the visual redesign:
+
+Run the project and inspect:
+
+- browser console
+- build output
+- TypeScript
+- React warnings
+- broken links
+- missing assets
+- unused imports
+- unnecessary dependencies
+
+Fix all issues.
+
+Do not leave errors behind.
+
+---
+
+20. IMPORTANT CONTENT RESTRICTION
+
+Never invent professional information.
+
+Do NOT add:
+
+- fake clients
+- fake companies
+- fake certifications
+- fake awards
+- fake years of experience
+- fake testimonials
+- fake statistics
+- fake technologies
+- fake employment history
+
+The website should appear impressive because of:
+
+design + storytelling + typography + UX + presentation
+
+not fabricated credentials.
+
+---
+
+21. FINAL CREATIVE STANDARD
+
+After completing the improvements, ask yourself:
+
+"If a potential client, employer, or business partner opened this website for the first time, would it immediately look like the official portfolio of a serious modern technology professional?"
+
+If the answer is not clearly YES, continue refining the design.
+
+The final website should feel:
+
+Nashwan Yousef — Digital Professional / Developer / Designer
+
+rather than:
+
+Generic Portfolio Template
+
+---
+
+FINAL CHECK
+
+Before finishing:
+
+✓ English is default
+
+✓ Arabic works perfectly
+
+✓ RTL works perfectly
+
+✓ Language preference persists
+
+✓ All navigation works
+
+✓ Mobile menu works
+
+✓ Travalorics Coffee link works
+
+✓ Social links work
+
+✓ Email works
+
+✓ No broken links
+
+✓ No console errors
+
+✓ No horizontal scrolling
+
+✓ Mobile is polished
+
+✓ Desktop is polished
+
+✓ Typography is consistent
+
+✓ Animations are subtle
+
+✓ SEO is configured
+
+✓ Accessibility is improved
+
+✓ Production build succeeds
+
+Do not stop after making cosmetic changes.
+
+Inspect the entire website again after implementation and perform one final polish pass.

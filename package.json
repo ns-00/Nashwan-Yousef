@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "artifacts/*",
+    "lib/*",
+    "lib/integrations/*",
+    "scripts"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=@workspace/nashwan-portfolio",
+    "build": "npm run build --workspace=@workspace/nashwan-portfolio",
+    "lint": "tsc -p ./artifacts/nashwan-portfolio/tsconfig.json --noEmit",
+    "typecheck": "tsc --build"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.0",
+    "typescript": "~5.7.3"
+  }
+}
