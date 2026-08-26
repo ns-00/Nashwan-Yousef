@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
+  "packageManager": "pnpm@9.15.9",
   "workspaces": [
     "artifacts/*",
     "lib/*",
@@ -12,6 +13,8 @@
   "scripts": {
     "dev": "npm run dev --workspace=@workspace/nashwan-portfolio",
     "build": "npm run build --workspace=@workspace/nashwan-portfolio",
+    "build:api": "npm run build --workspace=@workspace/api-server",
+    "typecheck:libs": "tsc --build ./lib/db ./lib/api-zod ./lib/api-client-react",
     "lint": "tsc -p ./artifacts/nashwan-portfolio/tsconfig.json --noEmit",
     "typecheck": "tsc --build"
   },
