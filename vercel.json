@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build --workspace=@workspace/nashwan-portfolio",
+  "installCommand": "npm install",
+  "outputDirectory": "dist"
+}
